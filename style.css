@@ -1,0 +1,95 @@
+a{
+	opacity: 0.9;
+	font-size: 24;
+}
+.prim{
+	color:red;
+	opacity: 1;
+}
+.textul{
+	color: red;
+	background-color: #03FFF0;
+	border: 5px solid #42FF03;
+	font-size: 30px;
+	opacity: 0.6;
+	border-radius: 50px;
+	width: 18%;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	padding: 15px;
+	box-shadow: 15px 15px 10px #31eb11;
+	display: inline-block;
+}
+.doi{
+	color: red;
+}
+.dreapta{
+	float: center;
+}
+.stanga{
+	float: left;
+	border: 2px solid black;
+		background-color: #00FA9A;
+}
+footer{
+	float: none;
+}
+.jail{
+	color: yellow;
+}
+.rob{
+	color: #8A2BE2;
+}
+.flud{
+	color:red;
+}
+.continut{
+	align-content: right;
+}
+.block{
+	border: 5px;
+
+}
+.Sped{
+	color:#8A2BE2;
+}
+
+.maddy{
+	color:#FF4500;
+}
+
+.lol{
+	color:#FF4500;
+}
+
+.fe2{
+	color:#FF4500;
+}
+
+.ROUX{
+	width: 450px;
+	float:right;
+}
+
+.paragraf{
+	float:left;
+}
+
+.sectiune{
+	width:100%;
+	display:flex;
+}
+
+.sectiune div {
+	width:30%;
+}
+
+.imga {
+	width:300px;
+}
+
+.titlu{
+	float:left;
+}
